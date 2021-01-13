@@ -18,7 +18,7 @@ let data = {
             "priority": 1,
         },
         {
-            "name": "Научить паять",
+            "name": "Научиться паять",
             "description": "А ведь я не умею паять :(",
             "tags": ["skills"],
             "image": "https://pbs.twimg.com/media/EO5iu6_WkAAg8E3?format=jpg&name=medium",
