@@ -1,21 +1,21 @@
 
 let data = {
     "config": {
-        "image_default": "src/images/item-default.jpg",
+        "image_default": "images/item-default.jpg",
         "currency_default": "₽",
         "description": "Alfac0m Wishlist",
         "show_archived": 0,
     },
     "items": [
         {
-            "name": "This is Fine Plush Dog",
-            "description": "This is not fine actually",
-            "price": 3000-50000,
-            "currency": "",
-            "tags": ["plush", "toys"],
-            "image": "https://cdn.shopify.com/s/files/1/1829/4817/products/rumb-tfdog-plush.jpg?v=1574884844",
+            "name": "Подарочная карта Panteric",
+            "description": "Магаз, где я закупаюсь едой и другими вещами для бананоедов :)",
+            "price": '3000-50000',
+//             "currency": "",
+            "tags": ["plush", "jew"],
+            "image": "https://panteric.ru/files/gallery/4414/big/zaglavnaya_1608722959.jpg",
             "url": "https://panteric.ru/podarki/podarochnye-karty",
-            "date": "2020-08-01",
+            "date": "2021-01-13",
             "priority": 1,
         },
         {
