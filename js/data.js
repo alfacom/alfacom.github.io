@@ -16,23 +16,20 @@ let data = {
         {
             "name": "Научиться паять",
             "description": "А ведь я не умею паять :(",
-            "tags": ["skills"],
             "image": "https://pbs.twimg.com/media/EO5iu6_WkAAg8E3?format=jpg&name=medium",
         },
         {
-            "name": "STM32 Nucleo F401RE",
+            "name": "STM32 Nucleo H743ZI2",
             "description": "Говорят, эти микроконтроллеры можно прогать на Python. Хочу попробовать",
-            "price": 2040,
-            "image": "https://static-sl.insales.ru/images/products/1/705/323920577/stm32-nucleo-f401re.2.jpg",
-            "tags": ["useless"],
-            "url": "https://amperka.ru/product/stm32-nucleo-f401re",
+            "price": 3300,
+            "image": "https://static.chipdip.ru/lib/310/DOC004310109.jpg",
+            "url": "https://www.chipdip.ru/product/nucleo-h743zi2",
         },
         {
             "name": "NVIDIA RTX 3080 Ti",
             "description": "Мечты-мечты",
             "price": 99990,
             "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3080/geforce-rtx-3080-shop-630-d.png",
-            "tags": ["GPU"],
             "url": "https://www.nvidia.com/ru-ru/geforce/graphics-cards/30-series/rtx-3080/",
         },
         {
