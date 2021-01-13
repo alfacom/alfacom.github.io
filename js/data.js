@@ -41,7 +41,7 @@ let data = {
             "image": "https://www.1c-interes.ru/upload/resize_src/e5/e5a49f7e2c0e2e77c0d8b4911ed2b750.jpg",
             "url": "https://www.1c-interes.ru/catalog/all6963/29289002/",
         },
-        {https://store.steampowered.com/digitalgiftcards/selectgiftcard
+        {
             "name": "Подарочная карта HobbyGames",
             "description": "Люблю настолки :)",
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/hobbygames/Podarochniy_Sertifikat_1000_01-1024x1024-wm.jpg",
