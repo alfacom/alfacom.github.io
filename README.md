@@ -1,3 +1,5 @@
+Forked from https://github.com/Mitrichius/WishlistJS , all hail to © Dmitry Kolosov 2020
+
 # Wishlist [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/mitrichius/1)
 
 Wishlist — small pure JS page/application for making public wishlist.  
