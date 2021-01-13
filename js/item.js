@@ -26,7 +26,7 @@ class ItemElement extends HTMLElement {
             : ''
 
         let descriptionCodeDesktop = this.description
-            ? ` <div class="item_description_desktop" title="${this.description}"><img src="src/images/info-icon.png"/></div>`
+            ? ` <div class="item_description_desktop" title="${this.description}"><img src="images/info-icon.png"/></div>`
             : ''
 
         let descriptionCodeMobile = this.description
@@ -34,7 +34,7 @@ class ItemElement extends HTMLElement {
             : ''
 
         let multiCode = this.multi
-            ? ` <div class="item_multi" title="Multiple"><img src="src/images/icon-multi.png"/></div>`
+            ? ` <div class="item_multi" title="Multiple"><img src="images/icon-multi.png"/></div>`
             : ''
 
         if (this.url) {
