@@ -11,11 +11,8 @@ let data = {
             "name": "Подарочная карта Panteric",
             "description": "Магаз, где я закупаюсь едой и другими вещами для бананоедов :)",
             "price": '3000-50000',
-            "tags": ["gecko"],
             "image": "https://panteric.ru/files/gallery/4414/big/zaglavnaya_1608722959.jpg",
             "url": "https://panteric.ru/podarki/podarochnye-karty",
-            "date": "2021-01-13",
-            "priority": 1,
         },
         {
             "name": "Научиться паять",
@@ -44,6 +41,13 @@ let data = {
             "price": 599,
             "image": "https://www.1c-interes.ru/upload/resize_src/e5/e5a49f7e2c0e2e77c0d8b4911ed2b750.jpg",
             "url": "https://www.1c-interes.ru/catalog/all6963/29289002/",
+        },
+        {
+            "name": "Подарочная карта HobbyGames",
+            "description": "Люблю настолки :)",
+            "price": '1000-5000',
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/hobbygames/Podarochniy_Sertifikat_1000_01-1024x1024-wm.jpg",
+            "url": "https://hobbygames.ru/podarochnij-sertifikat-hobbygames-1000-rublej",
         },
     ]
 }
