@@ -26,7 +26,7 @@ let data = {
         {
             "name": "STM32 Nucleo F401RE",
             "description": "Говорят, эти микроконтроллеры можно прогать на Python. Хочу попробовать",
-            "price": 2040',
+            "price": 2040,
             "image": "https://static-sl.insales.ru/images/products/1/705/323920577/stm32-nucleo-f401re.2.jpg",
             "tags": ["useless"],
             "url": "https://amperka.ru/product/stm32-nucleo-f401re",
