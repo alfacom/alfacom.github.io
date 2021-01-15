@@ -46,6 +46,12 @@ class ItemElement extends HTMLElement {
                 </div>
             </a>`
             nameCode = `<div class="item_name"><a target="_blank" href="${this.url}"/>${this.name}</a></div>`
+        } else {
+            imageCode = `
+            <div class="item_image_container">
+                ${imageCode}${priceCode}
+                <div class="item_icons">${multiCode}${descriptionCodeDesktop}</div>
+            </div>`
         }
 
         this.appendHtml(imageCode)
