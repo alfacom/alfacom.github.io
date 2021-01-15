@@ -17,7 +17,6 @@ let data = {
             "name": "Научиться паять",
             "description": "Я не умею паять :(",
             "image": "https://pbs.twimg.com/media/EO5iu6_WkAAg8E3?format=jpg&name=medium",
-            "url": "https://ya.ru",
         },
         {
             "name": "STM32 Nucleo H743ZI2",
