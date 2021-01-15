@@ -15,8 +15,9 @@ let data = {
         },
         {
             "name": "Научиться паять",
-            "description": "А ведь я не умею паять :(",
+            "description": "Я не умею паять :(",
             "image": "https://pbs.twimg.com/media/EO5iu6_WkAAg8E3?format=jpg&name=medium",
+            "url": "",
         },
         {
             "name": "STM32 Nucleo H743ZI2",
